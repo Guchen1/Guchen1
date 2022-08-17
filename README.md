@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Chen's github stats](//p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1188110e11c84be89e6c60130622635a~tplv-k3u1fbpfcp-zoom-1.image)](https://github.com/anuraghazra/github-readme-stats)
+[![Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guchen1)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Guchen1/Guchen1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
